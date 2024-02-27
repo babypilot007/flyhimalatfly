@@ -32,7 +32,7 @@ function App() {
 				<p>I have acquired around <span>1200 Hours</span> of Total Flight Time.</p>
 <br></br>
 				<p>Currently Instructing at : </p><br></br>
-        <button><a href="https://www.p6aviation.com/"><img src={p6} alt="p6"></img></a></button>
+        {/* <button><a href="https://www.p6aviation.com/"><img src={p6} alt="p6"></img></a></button> */}
 </div>
         <div id='Contact'>
           
